@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portlandMEplumbing.com/sitemap.xml
